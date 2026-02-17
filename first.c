@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    float length, breadth;
-    float area, perimeter;
+    float length, breadth, area, perimeter;
 
     printf("Enter the length of the rectangle: ");
     scanf("%f", &length);
